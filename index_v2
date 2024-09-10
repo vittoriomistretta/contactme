@@ -25,10 +25,10 @@
 
         <!-- reCAPTCHA -->
         <form id="captchaForm">
-            <div class="g-recaptcha" data-sitekey="6LeK8DwqAAAAABbPpEGuDeRxTR6CWZmxSoR9I5ZZ"></div> <!-- Sostituisci LA_TUA_SITE_KEY con la tua chiave del sito reCAPTCHA -->
+            <div class="g-recaptcha" data-sitekey=6LeK8DwqAAAAABbPpEGuDeRxTR6CWZmxSoR9I5ZZ></div> <!-- Sostituisci LA_TUA_SITE_KEY con la tua chiave del sito reCAPTCHA -->
             <br>
             <button class="g-recaptcha" 
-                    data-sitekey="6LeK8DwqAAAAABbPpEGuDeRxTR6CWZmxSoR9I5ZZ" 
+                    data-sitekey=6LeK8DwqAAAAABbPpEGuDeRxTR6CWZmxSoR9I5ZZ 
                     data-callback='onSubmit'>Verifica e prosegui</button>
         </form>
 
